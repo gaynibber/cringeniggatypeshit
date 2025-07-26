@@ -28,7 +28,7 @@ jobs:
           Set-Service -Name "Audiosrv" -StartupType Automatic
       - name: Set RDP Password
         run: |
-          Set-LocalUser -Name "runneradmin" -Password (ConvertTo-SecureString -AsPlainText "magiskmodule.gitlab.io!" -Force)
+          Set-LocalUser -Name "runneradmin" -Password (ConvertTo-SecureString -AsPlainText "Xnxx@123" -Force)
       - name: Start Playit and Set Up RDP Tunnel
         env:
           PLAYIT_AUTH_KEY: ${{ secrets.PL }}
